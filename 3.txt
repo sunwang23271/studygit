@@ -2,4 +2,7 @@ qwertyuiop
 qwertyuiop
 qwertyuiop
 qwertyuiop
+<<<<<<< Updated upstream
 123
+=======
+>>>>>>> Stashed changes
